@@ -1,0 +1,3 @@
+# To ignore node_modules and not push all the files to Github.
+# Use      npm i    in your terminal to install the node modules.
+node_modules
